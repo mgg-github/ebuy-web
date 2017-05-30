@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f065bdf-80f7-4fca-8623-bf8cbc30a930" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -2942,8 +2941,16 @@
       <workItem from="1495931705410" duration="33144000" />
       <workItem from="1496018700286" duration="32540000" />
       <workItem from="1496072192869" duration="142000" />
-      <workItem from="1496117351567" duration="4105000" />
+      <workItem from="1496117351567" duration="4304000" />
     </task>
+    <task id="LOCAL-00001" summary="更新了vcs文件">
+      <created>1496138839223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496138839223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2979,7 +2986,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120920000" />
+    <option name="totallyTimeSpent" value="121119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -3065,6 +3072,8 @@
       <path value="$USER_HOME$/git4TaoTao" />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="更新了vcs文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了vcs文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
