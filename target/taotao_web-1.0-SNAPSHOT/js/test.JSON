@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "u": "/products/1.html",
+      "n": "<a href='/products/1.html'>图书、音像、电子书刊</a>",
+      "i": [
+        {
+          "u": "/products/2.html",
+          "n": "电子书刊",
+          "i": [
+            "/products/3.html|电子书",
+            "/products/4.html|网络原创"
+          ]
+        }
+      ]
+    }
+  ]
+}
