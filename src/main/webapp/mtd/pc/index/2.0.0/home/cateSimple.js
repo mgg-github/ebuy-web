@@ -1,7 +1,7 @@
-{
+getCategoryCallback({
   "data": [
     {
-      "id": "a",
+
       "t": [
         "jiadian.jd.com/|家电馆||0",
         "sale.jd.com/act/eRszkp8fyiS3Yt.html|乡镇专卖店||0",
@@ -8594,4 +8594,4 @@
       ]
     }
   ]
-}
+})

@@ -71,7 +71,7 @@
         /* E head */
 
 
-        .cate{position:relative;z-index:2}.cate_menu{overflow:hidden;padding:16px 0;height:448px;background-color:#6e6568;color:#fff}.cate_menu_item{overflow:hidden;padding-left:12px;height:28px;line-height:28px;font-size:0}.cate_menu_item_on{background-color:#999395}.cate_menu_line{padding:0 4px;font-size:12px}.cate_menu_lk{font-size:14px;color:#fff}.cate_pop{position:absolute;left:190px;top:0;width:998px;min-height:478px;border:1px solid #f7f7f7;background-color:#f7f7f7;box-shadow:2px 0 5px rgba(0,0,0,.3);-webkit-transition:top .25s ease;transition:top .25s ease}.o2_ie7 .cate_pop,.o2_ie8 .cate_pop{border:1px solid #6e6568}.cate_part{display:none;padding:20px 0 10px}.cate_part_col1{float:left;width:800px}.cate_part_col2{float:left;width:198px}.cate_brand{margin:auto;width:168px;font-size:0}.cate_brand_lk{overflow:hidden;display:inline-block;width:83px;height:35px;margin:0 0 1px 1px;background-color:#e7e7e7}.cate_promotion{margin:10px auto 0;width:168px}.cate_promotion_lk{display:block;margin-bottom:1px;height:134px;background-color:#e7e7e7}.cate_channel{overflow:hidden;padding-left:20px;height:24px}.cate_channel_lk{*cursor:pointer;float:left;margin-right:10px;padding:0 10px;height:24px;background-color:#6e6568;line-height:24px;color:#fff}.cate_channel_lk:hover{background-color:#5c5251;color:#fff}.cate_channel_arrow{margin-left:5px}.cate_detail{overflow:hidden;*zoom:1;padding:10px 0 0 20px}.cate_detail_col1,.cate_detail_col2{float:left;width:369px}.cate_detail_col1{padding-right:20px;border-right:1px solid #eee}.cate_detail_col2{margin-left:20px}.cate_detail_item{position:relative;padding-left:80px}.cate_detail_tit{overflow:hidden;position:absolute;left:0;top:9px;*top:8px;width:70px;text-align:right;font-weight:700;white-space:nowrap;text-overflow:ellipsis}.cate_detail_tit_arrow{margin-left:5px}.cate_detail_con{overflow:hidden;*zoom:1;padding:6px 0;border-top:1px solid #eee}.cate_detail_item1 .cate_detail_con{border-top:none}.cate_detail_con_lk{float:left;margin:4px 0;padding:0 10px;height:16px;border-left:1px solid #e0e0e0;line-height:16px;white-space:nowrap}.cate_detail_con_lk_hot{font-weight:700;color:#c81623}.o2_mini .cate_pop{width:798px}.o2_mini .cate_part_col1{width:600px}.o2_mini .cate_detail_col1,.o2_mini .cate_detail_col2{width:590px}.o2_mini .cate_detail_col1{padding-right:0;border-right:none}.o2_mini .cate_detail_col2{margin-left:0}
+        .cate{position:relative;z-index:2}.cate_menu{overflow:hidden;padding:16px 0;height:448px;background-color:#6e6568;color:#fff}.cate_menu_item{overflow:hidden;padding-left:12px;height:28px;line-height:28px;font-size:0}.cate_menu_item_on{background-color:#999395}.cate_menu_line{padding:0 4px;font-size:12px}.cate_menu_lk{font-size:14px;color:#fff}.cate_pop{position:absolute;left:190px;top:0;width:800px;min-height:478px;border:1px solid #f7f7f7;background-color:#f7f7f7;box-shadow:2px 0 5px rgba(0,0,0,.3);-webkit-transition:top .25s ease;transition:top .25s ease}.o2_ie7 .cate_pop,.o2_ie8 .cate_pop{border:1px solid #6e6568}.cate_part{display:none;padding:10px 0 10px}.cate_part_col1{float:left;width:800px}.cate_detail{overflow:hidden;*zoom:1;padding:10px 0 0 20px}.cate_detail_col1,.cate_detail_col2{float:left;width:369px}.cate_detail_col1{padding-right:20px;border-right:1px solid #eee}.cate_detail_col2{margin-left:20px}.cate_detail_item{position:relative;padding-left:80px}.cate_detail_tit{overflow:hidden;position:absolute;left:0;top:9px;*top:8px;width:70px;text-align:right;font-weight:700;white-space:nowrap;text-overflow:ellipsis}.cate_detail_tit_arrow{margin-left:5px}.cate_detail_con{overflow:hidden;*zoom:1;padding:6px 0;border-top:1px solid #eee}.cate_detail_item1 .cate_detail_con{border-top:none}.cate_detail_con_lk{float:left;margin:4px 0;padding:0 10px;height:16px;border-left:1px solid #e0e0e0;line-height:16px;white-space:nowrap}.cate_detail_con_lk_hot{font-weight:700;color:#c81623}.o2_mini .cate_pop{width:798px}.o2_mini .cate_part_col1{width:600px}.o2_mini .cate_detail_col1,.o2_mini .cate_detail_col2{width:590px}.o2_mini .cate_detail_col1{padding-right:0;border-right:none}.o2_mini .cate_detail_col2{margin-left:0}
 
 
         .slider_main{position:relative;margin-bottom:10px;height:340px}.slider_item{background-color:#fff}.slider_item,.slider_item_lk,.slider_list{overflow:hidden;position:absolute;width:100%;height:100%}.slider_item_img{display:block;width:100%;height:100%}.slider_control_item{display:none;*cursor:pointer;position:absolute;z-index:1;top:50%;margin-top:-30px;width:30px;height:60px;background-color:#333;background-color:rgba(0,0,0,.1);line-height:60px;text-align:center}.slider_control_item:hover{background:rgba(0,0,0,.6)}.slider_control_prev{left:0}.slider_control_next{right:0}.slider_control_item i{font-size:20px;color:#fff}.slider_main:hover .slider_control_item{display:block}.slider_indicator{position:absolute;z-index:1;left:50%;bottom:20px;font-size:0;padding:4px 8px;border-radius:12px;background-color:hsla(0,0%,100%,.3);display:none}.slider_indicator_btn{display:inline-block;margin-right:10px;width:12px;height:12px;border-radius:100%;background-color:#fff}.slider_indicator_btn_last{margin-right:0}.slider_indicator_btn_active{background-color:#db192a}.slider_extend{margin-left:-10px;height:130px}.slider_bi{overflow:hidden;float:left;margin-left:10px;width:390px;height:130px}.slider_bi_lk{display:block;width:100%;height:100%;background:#fff}.slider_bi_img{display:block;width:390px;height:130px}.o2_mini .slider_bi{width:290px}
@@ -82,7 +82,7 @@
 
 
 
-        .news{overflow:hidden;padding:0 15px;height:154px}.news .mod_tab_head{padding:8px 0 4px;border-bottom:1px solid #e6e6e6;position:relative;line-height:14px}.news_more{position:absolute;right:0;top:8px}.news .mod_tab_head_item{color:#333;padding-right:12px;padding-left:12px;border-right:1px solid #dfe0e1}.news .news_first{padding-left:0}.news .news_last{padding-right:0;border-right:0}.news .mod_tab_content{padding:12px 0}.news .mod_tab_content_item{display:none}.news .mod_tab_content_item_on{display:block}.news_item{line-height:24px;max-width:160px;_width:160px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.news_tab_active{position:absolute;bottom:-1px;left:-2px;width:28px;height:2px;background:#db192b;-webkit-transform:translateX(0);transform:translateX(0);-webkit-transition:-webkit-transform .3s ease;transition:-webkit-transform .3s ease;transition:transform .3s ease;transition:transform .3s ease,-webkit-transform .3s ease}.service{overflow:hidden;position:relative;height:210px}.service_entry{overflow:hidden;width:190px}.service_list{margin-left:-1px;width:192px;height:210px;overflow:hidden}.service_item{position:relative;overflow:hidden;float:left;width:47px;height:69px;border-top:1px solid #e7e7e7;border-left:1px solid #e7e7e7;text-align:center}.service_ico,.service_lk,.service_txt{display:block}.service_lk{*cursor:pointer;padding-top:14px;height:55px;-webkit-transition:all .15s ease-in-out;transition:all .15s ease-in-out}.service_ico{margin:0 auto}.service_txt{height:22px;line-height:22px;border-top:2px solid #fff}.service_corner{position:absolute;right:0;top:0;width:13px;height:16px;font-size:12px;line-height:12px;text-align:center;background:#e01121;color:#fff;-webkit-transition:all .2s ease;transition:all .2s ease}.service_corner_txt{vertical-align:top}.service_corner_ico{position:absolute;bottom:0;left:0;width:0;height:0;font-size:0;line-height:0;border:solid;border-width:2px 6px;border-color:#e01121 #e01121 #fff}.service_pop{position:absolute;left:0;top:210px;width:190px;height:185px;background-color:#fff;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.service_pop_item{height:185px}.service_pop_close{position:absolute;right:0;top:0;width:14px;height:14px;line-height:14px;text-align:center}.service_pop_close:hover{background-color:#ddd}.service_expand .service_frame .service_lk{margin-top:-38px}.csstransitions .service_expand .service_frame .service_lk{margin-top:0;-webkit-transform:translate3d(0,-38px,0);transform:translate3d(0,-38px,0)}.service_expand .service_frame_on .service_txt{color:#e01121;border-top-color:#e01121}.service_expand .service_pop{top:24px}.csstransitions .service_expand .service_pop{top:210px;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}.service_expand .service_frame .service_corner{right:2px;top:4px;width:4px;height:4px;border-radius:100%}.csstransitions .service_expand .service_frame .service_corner{top:4px;-webkit-transform:translate3d(0,38px,0);transform:translate3d(0,38px,0)}.service_expand .service_frame .service_corner_ico,.service_expand .service_frame .service_corner_txt{display:none}.fs{z-index:9;margin-bottom:10px}.fs,.fs_inner{position:relative}.fs_inner{z-index:1;height:480px;background-color:#f6f6f6}.fs_col1{width:190px;margin-right:10px}.fs_col1,.fs_col2{float:left;height:100%}.fs_col2{width:790px}.fs_col3{float:right;margin-left:10px;width:190px;height:100%;background-color:#fff}.fs_act{display:block;position:absolute;left:0;top:0;width:100%}.o2_mini .fs_col2{width:590px}.o2_mini .fs_act{display:none}.service_ico_huafei{background-position:0 -88px}.service_ico_huafei,.service_ico_jipiao{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_jipiao{background-position:0 -44px}.service_ico_dianying{background-position:-44px -44px}.service_ico_dianying,.service_ico_youxi{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_youxi{background-position:-88px 0}.service_ico_qyg{background-position:-88px -44px}.service_ico_jiayou,.service_ico_qyg{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_jiayou{background-position:0 0}.service_ico_jiudian{background-position:-44px -88px}.service_ico_huoche,.service_ico_jiudian{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_huoche{background-position:-88px -88px}.service_ico_zhongchou{background-position:-132px 0}.service_ico_licai,.service_ico_zhongchou{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_licai{background-position:-132px -44px}.service_ico_lipin{background-position:-132px -88px}.service_ico_baitiao,.service_ico_lipin{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_baitiao{background-position:-44px 0}@media only screen and (-o-min-device-pixel-ratio:3/2),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min--moz-device-pixel-ratio:1.5),only screen and (min-device-pixel-ratio:1.5){.mobile_btn_ico{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-position:0 -102px;background-size:126px 118px;background-repeat:no-repeat;width:16px;height:16px}.service_ico_huafei{background-position:0 -68px}.service_ico_huafei,.service_ico_jipiao{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_jipiao{background-position:0 -34px}.service_ico_dianying{background-position:-34px -34px}.service_ico_dianying,.service_ico_youxi{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_youxi{background-position:-68px 0}.service_ico_qyg{background-position:-68px -34px}.service_ico_jiayou,.service_ico_qyg{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_jiayou{background-position:0 0}.service_ico_jiudian{background-position:-34px -68px}.service_ico_huoche,.service_ico_jiudian{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_huoche{background-position:-68px -68px}.service_ico_zhongchou{background-position:-102px 0}.service_ico_licai,.service_ico_zhongchou{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_licai{background-position:-102px -34px}.service_ico_lipin{background-position:-102px -68px}.service_ico_baitiao,.service_ico_lipin{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_baitiao{background-position:-34px 0}}.index{background-color:#f6f6f6}.sk{height:305px}.fbt,.sk{margin-bottom:30px}.fbt{height:444px}.coupon{height:215px}.coupon,.entry_c3{margin-bottom:30px}.entry_c3{height:585px}.entry_c5,.entry_c6,.entry_c7{margin-bottom:30px;height:195px}.rec{height:100px;background-color:#e0e0e0}.chn,.rec{margin-bottom:30px}.chn{height:523px}.chn_t{height:578px}.more{margin-bottom:30px;min-height:300px}
+        .news{overflow:hidden;padding:0 15px;height:154px}.news .mod_tab_head{padding:8px 0 4px;border-bottom:1px solid #e6e6e6;position:relative;line-height:14px}.news_more{position:absolute;right:0;top:8px}.news .mod_tab_head_item{color:#333;padding-right:12px;padding-left:12px;border-right:1px solid #dfe0e1}.news .news_first{padding-left:0}.news .news_last{padding-right:0;border-right:0}.news .mod_tab_content{padding:12px 0}.news .mod_tab_content_item{display:none}.news .mod_tab_content_item_on{display:block}.news_item{line-height:24px;max-width:160px;_width:160px;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.news_tab_active{position:absolute;bottom:-1px;left:-2px;width:28px;height:2px;background:#db192b;-webkit-transform:translateX(0);transform:translateX(0);-webkit-transition:-webkit-transform .3s ease;transition:-webkit-transform .3s ease;transition:transform .3s ease;transition:transform .3s ease,-webkit-transform .3s ease}.service{overflow:hidden;position:relative;height:210px}.service_entry{overflow:hidden;width:190px}.service_list{margin-left:-1px;width:192px;height:210px;overflow:hidden}.service_item{position:relative;overflow:hidden;float:left;width:47px;height:69px;border-top:1px solid #e7e7e7;border-left:1px solid #e7e7e7;text-align:center}.service_ico,.service_lk,.service_txt{display:block}.service_lk{*cursor:pointer;padding-top:14px;height:55px;-webkit-transition:all .15s ease-in-out;transition:all .15s ease-in-out}.service_ico{margin:0 auto}.service_txt{height:22px;line-height:22px;border-top:2px solid #fff}.service_corner{position:absolute;right:0;top:0;width:13px;height:16px;font-size:12px;line-height:12px;text-align:center;background:#e01121;color:#fff;-webkit-transition:all .2s ease;transition:all .2s ease}.service_corner_txt{vertical-align:top}.service_corner_ico{position:absolute;bottom:0;left:0;width:0;height:0;font-size:0;line-height:0;border:solid;border-width:2px 6px;border-color:#e01121 #e01121 #fff}.service_pop{position:absolute;left:0;top:210px;width:190px;height:185px;background-color:#fff;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out}.service_pop_item{height:185px}.service_pop_close{position:absolute;right:0;top:0;width:14px;height:14px;line-height:14px;text-align:center}.service_pop_close:hover{background-color:#ddd}.service_expand .service_frame .service_lk{margin-top:-38px}.csstransitions .service_expand .service_frame .service_lk{margin-top:0;-webkit-transform:translate3d(0,-38px,0);transform:translate3d(0,-38px,0)}.service_expand .service_frame_on .service_txt{color:#e01121;border-top-color:#e01121}.service_expand .service_pop{top:24px}.csstransitions .service_expand .service_pop{top:210px;-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}.service_expand .service_frame .service_corner{right:2px;top:4px;width:4px;height:4px;border-radius:100%}.csstransitions .service_expand .service_frame .service_corner{top:4px;-webkit-transform:translate3d(0,38px,0);transform:translate3d(0,38px,0)}.service_expand .service_frame .service_corner_ico,.service_expand .service_frame .service_corner_txt{display:none}.fs{z-index:9;margin-bottom:10px}.fs,.fs_inner{position:relative}.fs_inner{z-index:1;height:480px;background-color:#f6f6f6}.fs_col1{width:190px;margin-right:10px}.fs_col1,.fs_col2{float:left;height:100%}.fs_col2{width:790px}.fs_act{display:block;position:absolute;left:0;top:0;width:100%}.o2_mini .fs_col2{width:590px}.o2_mini .fs_act{display:none}.service_ico_huafei{background-position:0 -88px}.service_ico_huafei,.service_ico_jipiao{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_jipiao{background-position:0 -44px}.service_ico_dianying{background-position:-44px -44px}.service_ico_dianying,.service_ico_youxi{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_youxi{background-position:-88px 0}.service_ico_qyg{background-position:-88px -44px}.service_ico_jiayou,.service_ico_qyg{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_jiayou{background-position:0 0}.service_ico_jiudian{background-position:-44px -88px}.service_ico_huoche,.service_ico_jiudian{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_huoche{background-position:-88px -88px}.service_ico_zhongchou{background-position:-132px 0}.service_ico_licai,.service_ico_zhongchou{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_licai{background-position:-132px -44px}.service_ico_lipin{background-position:-132px -88px}.service_ico_baitiao,.service_ico_lipin{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@1x.png);background-size:156px 148px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_baitiao{background-position:-44px 0}@media only screen and (-o-min-device-pixel-ratio:3/2),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min--moz-device-pixel-ratio:1.5),only screen and (min-device-pixel-ratio:1.5){.mobile_btn_ico{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-position:0 -102px;background-size:126px 118px;background-repeat:no-repeat;width:16px;height:16px}.service_ico_huafei{background-position:0 -68px}.service_ico_huafei,.service_ico_jipiao{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_jipiao{background-position:0 -34px}.service_ico_dianying{background-position:-34px -34px}.service_ico_dianying,.service_ico_youxi{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_youxi{background-position:-68px 0}.service_ico_qyg{background-position:-68px -34px}.service_ico_jiayou,.service_ico_qyg{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_jiayou{background-position:0 0}.service_ico_jiudian{background-position:-34px -68px}.service_ico_huoche,.service_ico_jiudian{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_huoche{background-position:-68px -68px}.service_ico_zhongchou{background-position:-102px 0}.service_ico_licai,.service_ico_zhongchou{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_licai{background-position:-102px -34px}.service_ico_lipin{background-position:-102px -68px}.service_ico_baitiao,.service_ico_lipin{background-image:url(//taotao.com/mtd/pc/index/home/images/sprite_fs@2x.png);background-size:126px 118px;background-repeat:no-repeat;width:24px;height:24px}.service_ico_baitiao{background-position:-34px 0}}.index{background-color:#f6f6f6}.sk{height:305px}.fbt,.sk{margin-bottom:30px}.fbt{height:444px}.coupon{height:215px}.coupon,.entry_c3{margin-bottom:30px}.entry_c3{height:585px}.entry_c5,.entry_c6,.entry_c7{margin-bottom:30px;height:195px}.rec{height:100px;background-color:#e0e0e0}.chn,.rec{margin-bottom:30px}.chn{height:523px}.chn_t{height:578px}.more{margin-bottom:30px;min-height:300px}
 
         .mobile{position:relative;z-index:21}.mobile_txt{width:60px;text-align:center}.mobile_static{position:absolute;left:3px;width:66px;height:66px;border:1px solid #cfcfcf}.mobile_static_qrcode{margin:4px auto;width:60px;height:60px;background:#f6f6f6 url(//img.taotao.com/da/jfs/t5158/281/1659581273/18817/fe360aff/5912d52dNd0e40612.png) 50% no-repeat}@media only screen and (-o-min-device-pixel-ratio:3/2),only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min--moz-device-pixel-ratio:1.5),only screen and (min-device-pixel-ratio:1.5){.mobile_static_qrcode{background:url(//img.taotao.com/da/jfs/t5407/127/1649720504/21483/9ac32aa1/5912d52aNc2ba4cb4.png) 50% no-repeat;background-size:60px}}.mobile_pop:before,.mobile_static:before{content:'';position:absolute;display:block;top:-9px;left:50%;margin-left:-5px;width:0;height:0;line-height:0;font-size:0;border-width:5px;border-style:solid;border-color:#e4e4e4 #e4e4e4 #f6f6f6}.mobile_pop:before{border-color:#e4e4e4 #e4e4e4 #fff;left:154px}.mobile .mod_loading{height:200px}.mobile_pop{display:none;position:absolute;left:auto;right:0;top:30px;width:190px;border:1px solid #cfcfcf;background-color:#fff;border-bottom:3px solid #60575a}.mobile_on .mobile_pop{display:block}.mobile_on .mobile_static{display:none}
 
@@ -442,139 +442,139 @@
             </div>
         </div>
 
-        <div class="fs_col3">
+        <%--<div class="fs_col3">--%>
 
-            <div class="J_user user mod_loading">
-            </div>
-            <!-- news start -->
-            <div class="news J_news">
-                <div class="mod_tab news_tab J_news_tab">
-                    <div class="mod_tab_head J_tab_head clearfix">
-                        <a href="javascript:;" class="mod_tab_head_item news_first mod_tab_head_item_on" clstag="h|keycount|2016|10a">促销</a>
-                        <a href="javascript:;" class="mod_tab_head_item news_last" clstag="h|keycount|2016|10b">公告</a>
-                        <div class="news_tab_active J_news_tab_active"></div>
-                        <a href="//www.taotao.com/moreSubject.aspx" target="_blank" class="news_more" clstag="h|keycount|2016|10c">更多</a>
-                    </div>
-                    <div class="mod_tab_content J_tab_content" clstag="h|keycount|2016|10d">
-                        <div class="mod_tab_content_item mod_tab_content_item_on">
-                            <ul class="news_list">
-                                <li class="news_item"><a href="//sale.taotao.com/act/yIrzxqBSRuWV6.html" target="_blank" class="news_link">居家生活1元尖货限量抢</a></li>
-                                <li class="news_item"><a href="//sale.taotao.com/act/bcu4WdKCi3.html" target="_blank" class="news_link">1元享好物 旅行领百万券</a></li>
-                                <li class="news_item"><a href="//sale.taotao.com/act/aAFiD2Kdtvu.html" target="_blank" class="news_link">智能音响直降至598元！</a></li>
-                                <li class="news_item"><a href="//trip.taotao.com/" target="_blank" class="news_link">每日享折扣 淘淘品质游</a></li>
-                            </ul>
-                        </div>
-                        <div class="mod_tab_content_item">
-                            <ul class="news_list">
-                                <li class="news_item"><a href="//www.taotao.com/news.aspx?id=34178" target="_blank" class="news_link">6月1日全球售招商大会邀请函</a></li>
-                                <li class="news_item"><a href="//www.taotao.com/news.aspx?id=33773" target="_blank" class="news_link"> “4.28配送员日”2000名五星一线员工获表彰</a></li>
-                                <li class="news_item"><a href="//www.taotao.com/news.aspx?id=33549" target="_blank" class="news_link">英国超市ASDA入驻淘淘</a></li>
-                                <li class="news_item"><a href="//www.taotao.com/news.aspx?id=33548" target="_blank" class="news_link">淘淘与欧莱雅中国合作升级 </a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div><!--index_ok-->
-            <!-- news end -->
+            <%--<div class="J_user user mod_loading">--%>
+            <%--</div>--%>
+            <%--<!-- news start -->--%>
+            <%--<div class="news J_news">--%>
+                <%--<div class="mod_tab news_tab J_news_tab">--%>
+                    <%--<div class="mod_tab_head J_tab_head clearfix">--%>
+                        <%--<a href="javascript:;" class="mod_tab_head_item news_first mod_tab_head_item_on" clstag="h|keycount|2016|10a">促销</a>--%>
+                        <%--<a href="javascript:;" class="mod_tab_head_item news_last" clstag="h|keycount|2016|10b">公告</a>--%>
+                        <%--<div class="news_tab_active J_news_tab_active"></div>--%>
+                        <%--<a href="//www.taotao.com/moreSubject.aspx" target="_blank" class="news_more" clstag="h|keycount|2016|10c">更多</a>--%>
+                    <%--</div>--%>
+                    <%--<div class="mod_tab_content J_tab_content" clstag="h|keycount|2016|10d">--%>
+                        <%--<div class="mod_tab_content_item mod_tab_content_item_on">--%>
+                            <%--<ul class="news_list">--%>
+                                <%--<li class="news_item"><a href="//sale.taotao.com/act/yIrzxqBSRuWV6.html" target="_blank" class="news_link">居家生活1元尖货限量抢</a></li>--%>
+                                <%--<li class="news_item"><a href="//sale.taotao.com/act/bcu4WdKCi3.html" target="_blank" class="news_link">1元享好物 旅行领百万券</a></li>--%>
+                                <%--<li class="news_item"><a href="//sale.taotao.com/act/aAFiD2Kdtvu.html" target="_blank" class="news_link">智能音响直降至598元！</a></li>--%>
+                                <%--<li class="news_item"><a href="//trip.taotao.com/" target="_blank" class="news_link">每日享折扣 淘淘品质游</a></li>--%>
+                            <%--</ul>--%>
+                        <%--</div>--%>
+                        <%--<div class="mod_tab_content_item">--%>
+                            <%--<ul class="news_list">--%>
+                                <%--<li class="news_item"><a href="//www.taotao.com/news.aspx?id=34178" target="_blank" class="news_link">6月1日全球售招商大会邀请函</a></li>--%>
+                                <%--<li class="news_item"><a href="//www.taotao.com/news.aspx?id=33773" target="_blank" class="news_link"> “4.28配送员日”2000名五星一线员工获表彰</a></li>--%>
+                                <%--<li class="news_item"><a href="//www.taotao.com/news.aspx?id=33549" target="_blank" class="news_link">英国超市ASDA入驻淘淘</a></li>--%>
+                                <%--<li class="news_item"><a href="//www.taotao.com/news.aspx?id=33548" target="_blank" class="news_link">淘淘与欧莱雅中国合作升级 </a></li>--%>
+                            <%--</ul>--%>
+                        <%--</div>--%>
+                    <%--</div>--%>
+                <%--</div>--%>
+            <%--</div><!--index_ok-->--%>
+            <%--<!-- news end -->--%>
 
 
 
-            <!-- life start -->
+            <%--<!-- life start -->--%>
 
-            <div id="J_service" class="service">
-                <div class="service_entry">
-                    <ul class="J_tab_head service_list">
+            <%--<div id="J_service" class="service">--%>
+                <%--<div class="service_entry">--%>
+                    <%--<ul class="J_tab_head service_list">--%>
 
-                        <li class="service_item service_frame mod_tab_head_item">
-                            <a target="_blank" href="//chongzhi.taotao.com/" class="service_lk" clstag="h|keycount|2016|11a">
-                                <i class="service_ico service_ico_huafei"></i>
-                                <span class="service_txt">话费</span>
-                            </a>
-                        </li>
-                        <li class="service_item service_frame mod_tab_head_item">
-                            <a target="_blank" href="//jipiao.taotao.com/" class="service_lk" clstag="h|keycount|2016|11b">
-                                <i class="service_ico service_ico_jipiao"></i>
-                                <span class="service_txt">机票</span>
-                            </a>
-                        </li>
-                        <li class="service_item service_frame mod_tab_head_item">
-                            <a target="_blank" href="//hotel.taotao.com/" class="service_lk" clstag="h|keycount|2016|11c">
-                                <span class="service_corner"><i class="service_corner_txt">减</i><i class="service_corner_ico"></i></span>
-                                <i class="service_ico service_ico_jiudian"></i>
-                                <span class="service_txt">酒店</span>
-                            </a>
-                        </li>
-                        <li class="service_item service_frame mod_tab_head_item">
-                            <a target="_blank" href="//game.taotao.com/" class="service_lk" clstag="h|keycount|2016|11d">
-                                <i class="service_ico service_ico_youxi"></i>
-                                <span class="service_txt">游戏</span>
-                            </a>
-                        </li>
-                        <li class="service_item ">
-                            <a target="_blank" href="//b.taotao.com/" class="service_lk" clstag="h|keycount|2016|11e">
-                                <i class="service_ico service_ico_qyg"></i>
-                                <span class="service_txt">企业购</span>
-                            </a>
-                        </li>
-                        <li class="service_item ">
-                            <a target="_blank" href="//jiayouka.taotao.com/" class="service_lk" clstag="h|keycount|2016|11f">
-                                <i class="service_ico service_ico_jiayou"></i>
-                                <span class="service_txt">加油卡</span>
-                            </a>
-                        </li>
-                        <li class="service_item ">
-                            <a target="_blank" href="//movie.taotao.com/index.html" class="service_lk" clstag="h|keycount|2016|11g">
-                                <i class="service_ico service_ico_dianying"></i>
-                                <span class="service_txt">电影票</span>
-                            </a>
-                        </li>
-                        <li class="service_item ">
-                            <a target="_blank" href="//train.taotao.com/" class="service_lk" clstag="h|keycount|2016|11h">
-                                <span class="service_corner"><i class="service_corner_txt">抢</i><i class="service_corner_ico"></i></span>
-                                <i class="service_ico service_ico_huoche"></i>
-                                <span class="service_txt">火车票</span>
-                            </a>
-                        </li>
-                        <li class="service_item ">
-                            <a target="_blank" href="//z.taotao.com/sceneIndex.html?from=jrscyn_20162" class="service_lk" clstag="h|keycount|2016|11i">
-                                <i class="service_ico service_ico_zhongchou"></i>
-                                <span class="service_txt">众筹</span>
-                            </a>
-                        </li>
-                        <li class="service_item ">
-                            <a target="_blank" href="//licai.taotao.com/?from=jrscyn_20161" class="service_lk" clstag="h|keycount|2016|11j">
-                                <i class="service_ico service_ico_licai"></i>
-                                <span class="service_txt">理财</span>
-                            </a>
-                        </li>
-                        <li class="service_item ">
-                            <a target="_blank" href="//o.taotao.com/market/index.action" class="service_lk" clstag="h|keycount|2016|11k">
-                                <i class="service_ico service_ico_lipin"></i>
-                                <span class="service_txt">礼品卡</span>
-                            </a>
-                        </li>
-                        <li class="service_item ">
-                            <a target="_blank" href="//baitiao.taotao.com/?from=jrscyn_20160" class="service_lk" clstag="h|keycount|2016|11l">
-                                <i class="service_ico service_ico_baitiao"></i>
-                                <span class="service_txt">白条</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
+                        <%--<li class="service_item service_frame mod_tab_head_item">--%>
+                            <%--<a target="_blank" href="//chongzhi.taotao.com/" class="service_lk" clstag="h|keycount|2016|11a">--%>
+                                <%--<i class="service_ico service_ico_huafei"></i>--%>
+                                <%--<span class="service_txt">话费</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                        <%--<li class="service_item service_frame mod_tab_head_item">--%>
+                            <%--<a target="_blank" href="//jipiao.taotao.com/" class="service_lk" clstag="h|keycount|2016|11b">--%>
+                                <%--<i class="service_ico service_ico_jipiao"></i>--%>
+                                <%--<span class="service_txt">机票</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                        <%--<li class="service_item service_frame mod_tab_head_item">--%>
+                            <%--<a target="_blank" href="//hotel.taotao.com/" class="service_lk" clstag="h|keycount|2016|11c">--%>
+                                <%--<span class="service_corner"><i class="service_corner_txt">减</i><i class="service_corner_ico"></i></span>--%>
+                                <%--<i class="service_ico service_ico_jiudian"></i>--%>
+                                <%--<span class="service_txt">酒店</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                        <%--<li class="service_item service_frame mod_tab_head_item">--%>
+                            <%--<a target="_blank" href="//game.taotao.com/" class="service_lk" clstag="h|keycount|2016|11d">--%>
+                                <%--<i class="service_ico service_ico_youxi"></i>--%>
+                                <%--<span class="service_txt">游戏</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                        <%--<li class="service_item ">--%>
+                            <%--<a target="_blank" href="//b.taotao.com/" class="service_lk" clstag="h|keycount|2016|11e">--%>
+                                <%--<i class="service_ico service_ico_qyg"></i>--%>
+                                <%--<span class="service_txt">企业购</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                        <%--<li class="service_item ">--%>
+                            <%--<a target="_blank" href="//jiayouka.taotao.com/" class="service_lk" clstag="h|keycount|2016|11f">--%>
+                                <%--<i class="service_ico service_ico_jiayou"></i>--%>
+                                <%--<span class="service_txt">加油卡</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                        <%--<li class="service_item ">--%>
+                            <%--<a target="_blank" href="//movie.taotao.com/index.html" class="service_lk" clstag="h|keycount|2016|11g">--%>
+                                <%--<i class="service_ico service_ico_dianying"></i>--%>
+                                <%--<span class="service_txt">电影票</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                        <%--<li class="service_item ">--%>
+                            <%--<a target="_blank" href="//train.taotao.com/" class="service_lk" clstag="h|keycount|2016|11h">--%>
+                                <%--<span class="service_corner"><i class="service_corner_txt">抢</i><i class="service_corner_ico"></i></span>--%>
+                                <%--<i class="service_ico service_ico_huoche"></i>--%>
+                                <%--<span class="service_txt">火车票</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                        <%--<li class="service_item ">--%>
+                            <%--<a target="_blank" href="//z.taotao.com/sceneIndex.html?from=jrscyn_20162" class="service_lk" clstag="h|keycount|2016|11i">--%>
+                                <%--<i class="service_ico service_ico_zhongchou"></i>--%>
+                                <%--<span class="service_txt">众筹</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                        <%--<li class="service_item ">--%>
+                            <%--<a target="_blank" href="//licai.taotao.com/?from=jrscyn_20161" class="service_lk" clstag="h|keycount|2016|11j">--%>
+                                <%--<i class="service_ico service_ico_licai"></i>--%>
+                                <%--<span class="service_txt">理财</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                        <%--<li class="service_item ">--%>
+                            <%--<a target="_blank" href="//o.taotao.com/market/index.action" class="service_lk" clstag="h|keycount|2016|11k">--%>
+                                <%--<i class="service_ico service_ico_lipin"></i>--%>
+                                <%--<span class="service_txt">礼品卡</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                        <%--<li class="service_item ">--%>
+                            <%--<a target="_blank" href="//baitiao.taotao.com/?from=jrscyn_20160" class="service_lk" clstag="h|keycount|2016|11l">--%>
+                                <%--<i class="service_ico service_ico_baitiao"></i>--%>
+                                <%--<span class="service_txt">白条</span>--%>
+                            <%--</a>--%>
+                        <%--</li>--%>
+                    <%--</ul>--%>
+                <%--</div>--%>
 
-                <div class="J_tab_content service_pop">
-                    <div class="mod_tab_content_item service_pop_item mod_loading"></div>
-                    <div class="mod_tab_content_item service_pop_item mod_loading"></div>
-                    <div class="mod_tab_content_item service_pop_item mod_loading"></div>
-                    <div class="mod_tab_content_item service_pop_item mod_loading"></div>
-                    <a class="J_service_pop_close service_pop_close iconfont" href="javascript:;">&#xe600;</a>
-                </div>
-            </div><!--index_ok-->
-            <!-- life end -->
+                <%--<div class="J_tab_content service_pop">--%>
+                    <%--<div class="mod_tab_content_item service_pop_item mod_loading"></div>--%>
+                    <%--<div class="mod_tab_content_item service_pop_item mod_loading"></div>--%>
+                    <%--<div class="mod_tab_content_item service_pop_item mod_loading"></div>--%>
+                    <%--<div class="mod_tab_content_item service_pop_item mod_loading"></div>--%>
+                    <%--<a class="J_service_pop_close service_pop_close iconfont" href="javascript:;">&#xe600;</a>--%>
+                <%--</div>--%>
+            <%--</div><!--index_ok-->--%>
+            <%--<!-- life end -->--%>
 
-        </div>
-    </div>
-    <div id="J_fs_act" class="fs_act"></div>
+        <%--&lt;%&ndash;</div>&ndash;%&gt;--%>
+    <%--</div>--%>
+    <%--<div id="J_fs_act" class="fs_act"></div>--%>
 </div>
 
 
@@ -896,9 +896,9 @@
 <script type="text/javascript">
     !function(){new Promos({id:"promo",selectFunc:"one",render:function(e){return'<a id="J_promo_lk" class="promo_lk" style="display: block; width: 190px; height: 40px; background: url('+e.bigImageUrl+') center no-repeat;" href="'+e.href+'" target="_blank" fclog='+e.clog+' clstag="h|keycount|2016|07a"></a>'},adList:[{bigImageUrl: '//img.taotao.com/da/jfs/t4387/323/3576433510/11668/84c05e84/59005a1eN1d07e3fe.png',imageUrl: '',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOXH/PqhV+S/Tp72v71SSqeB00wovUH9WXTWd3ZOszQ4FaCHedl5V90MWHqMzJVZHRBHWmoByPeXmwN+vPPmAue88vbCjJwzgisfHGxcwS/sjwGKyj7lbY3vhC7ULqr/zr0nPHsr297C1TQE09Y8WAUTZzMI/FNcIyqPvs7l7kzfgqwuiHO85wBSyA1FPeT/jgXBkyxapGKK0bayuRsyF1CjSHY0JSwCJdCXubq2wQCesktkSSOFA1pdGE/Iy7jQSEYQlCt5qtzWUNQR7nMClgnfA8pekfb4uNQnqgcfk9CP5w==&cv=2.0&url=//sale.taotao.com/act/REu2gb0BYlNI1.html',clog: '0.111727.357961.1.571_1816_8703',startDate: '2017/04/01 00:00:00',endDate: '2017/04/02 00:00:00',isTop: ''},{bigImageUrl: '//img.taotao.com/da/jfs/t5902/164/304754265/5973/642ad0e8/5926c131N27b73167.png',imageUrl: '',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOWokbN2gOukAyBrOgN1bOH2L2f9PM0ocxWknMwLei/sH1MRBVXmw9drGxjGWM/XYi0FMWzIGe6XaVcxc58nNGr54fLWlvRBkxoM4QrINBB7LfBHMuSWX3K8VM2spQ6HW49E3tn7RaWoRtM6aGNuRvDZPcADfOydEgb3r/t/IOD6jebwKAFQoJNlTkPYqRWHa7QpodVXpEL15gIhF7tS9XGTIH/3PVpFk1yWjCKplUWsYiZkUIzjmhlPlHv4wTLvUHI6PS3e2iAxIftN/cIOoqdkLMz+Zwh2Sv2uEPtOqU+3QA==&cv=2.0&url=//sale.taotao.com/act/dqmXrfTnpbw.html',clog: '15624.112313.383223.1.571_1816_8703',startDate: '',endDate: '',isTop: ''}]}).on("afterRender:promo",function(e,o){if(pageConfig.wideVersion){var n=$(o);$("#treasure").html(n),_.eventCenter.on("home:load",function(){pageConfig.sendClog($("#J_promo_lk"))})}}).init()}();
 </script>
-<script type="text/javascript">
-    !function(){new Promos({id:"fsbg",selectFunc:"one",render:function(e){var a;return a=this.isBrand?'<style type="text/css">.fs_brand .fs_act_lk {display: block; overflow: hidden; position: absolute; left: -350px; top: 0; width: 350px; height: 480px;}.fs_act_lk_img {float: right;}.fs_act_banner {overflow: hidden; position: absolute; z-index: 30; left: 0; top: 0; width: 0; height: 480px; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }.fs_brand_active{z-index:30;}.fs_brand_active .fs_act_banner {width: 990px;}.fs_act_banner_lk {display: block; height: 480px;}.fs_act_banner_lk img {width: 990px; height: 480px;}.fs_act_banner_close {position: absolute; right: 20px; top: 20px; width: 20px; height: 20px; line-height: 20px; font-weight: bold; font-size: 14px; color: #FFF; background: rgb(45,45,45); opacity: .3; filter: alpha(opacity=30); text-align: center; cursor: pointer;}</style><a id="J_fs_act_lk" href="javascript:;" class="fs_act_lk J_fsbtn" fclog='+e.clog+'><img class="fs_act_lk_img" src="'+e.bigImageUrl+'" /></a><div class="fs_act_banner J_fsbanner"><a href="'+e.href+'" class="fs_act_banner_lk J_fs_act_banner_lk" target="_blank" clstag="h|keycount|2016|98"'+(e.fclog?' fclog="'+e.fclog+'"':"")+'><img src="'+e.imageUrl+'" /></a><span class="fs_act_banner_close iconfont J_fsbanner_close">&#xe600;</span></div>':'<a id="J_fs_act_lk" class="fs_act_lk" href="'+e.href+'" target="_blank" style="display:block; background: url('+e.bigImageUrl+') no-repeat 50% 0; height: 480px" clstag="h|keycount|2016|98" fclog='+e.clog+"></a>"},adList:[{bigImageUrl: '//img.taotao.com/da/jfs/t5734/337/1500746777/54774/14ab07ff/5926d9ffN36e7d4c6.png',imageUrl: '',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOV7ByguXvA9InJCz1BMpQlq5GOLh86b3jq7N577lDTuIjKCWxbiKoZrvifEWxtFLNpHWmoByPeXmwN+vPPmAue88vbCjJwzgisfHGxcwS/sj8+hbxwbRc8PrZI8MECgc/O+jxvxTbeuKf258eY8sCPbqg7lBKMNaPUH7HUwVbi2CBd0Hr7Fi8hVunvZC4tPYiigwBDdtxSPU3z8cp50sfgiF1pAhcXBWv+zgtdSUzgYBEGXVSM3evs0GIN7W0oIHYZuynqN4iTv4/b1f66WBNE0YyuRuUC5Ueuy0w4BtYM9ig==&cv=2.0&url=//sale.taotao.com/act/XUh2CDEPdI6YuzZf.html',clog: '0.111726.382657.1.571_1816_8702',startDate: '2017/05/29 00:00:00',endDate: '2017/05/31 00:00:00',isTop: ''},{bigImageUrl: '//img.taotao.com/da/jfs/t6052/49/223748948/65508/61c7ffc8/5926da09N12d326f3.png',imageUrl: '',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOV7ByguXvA9InJCz1BMpQlqhpZ1JSC9Gr82ofr426XkbMdirpt+g0ScnvRvtsYBOaNHWmoByPeXmwN+vPPmAue88vbCjJwzgisfHGxcwS/sj8+hbxwbRc8PrZI8MECgc/O+jxvxTbeuKf258eY8sCPbqg7lBKMNaPUH7HUwVbi2CBd0Hr7Fi8hVunvZC4tPYiigwBDdtxSPU3z8cp50sfgiF1pAhcXBWv+zgtdSUzgYBEGXVSM3evs0GIN7W0oIHYZuynqN4iTv4/b1f66WBNE0YyuRuUC5Ueuy0w4BtYM9ig==&cv=2.0&url=//sale.taotao.com/act/XUh2CDEPdI6YuzZf.html',clog: '0.112332.382659.1.571_1816_8702',startDate: '2017/05/31 00:00:00',endDate: '2017/06/01 00:00:00',isTop: ''},{bigImageUrl: '//img.taotao.com/da/jfs/t5620/156/1674486724/27060/52f2c00d/5928823eN58f4ee8d.png',imageUrl: '//img.taotao.com/da/jfs/t5809/123/1661497000/97814/e35aace/59288243N366bc1f1.jpg',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOV7ByguXvA9InJCz1BMpQlquMPoxduz5gFySkhwjFwpACDO4kbue33/3cgWSe3ejntHWmoByPeXmwN+vPPmAue88vbCjJwzgisfHGxcwS/sj6RUKt1UUprqymX5k1ucxP6fJBm9T/y9DYAQC5kLYJqfBvY0tDzeYVvO6GD7pv64H8vAa6QAm01CnX10pC6qyde7NopedPC3du7DL5C86LCm7rgAJfsDkN3cr39q/mKyOw8DnD4R7zcofvTr4ytU1fEqjV5eNKY+ZtEexFIgZ9O50KLb4qjigzwt6HHBU+SMjg==&cv=2.0&url=//sale.taotao.com/act/dqmXrfTnpbw.html',clog: '0.112335.383752.1.571_1816_8702',startDate: '2017/05/28 00:00:00',endDate: '2017/05/29 00:00:00',isTop: ''},{bigImageUrl: '//img.taotao.com/da/jfs/t6007/241/97933676/149735/cc6b1741/5925b5bdN49520309.png',imageUrl: '',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOV7ByguXvA9InJCz1BMpQlqBAK2gSboxSWlwxLY4pmoXEcnr8a0zPMCPogkyj5Agw1HWmoByPeXmwN+vPPmAue88vbCjJwzgisfHGxcwS/sj8+hbxwbRc8PrZI8MECgc/O+jxvxTbeuKf258eY8sCPbqg7lBKMNaPUH7HUwVbi2CBd0Hr7Fi8hVunvZC4tPYiigwBDdtxSPU3z8cp50sfgiF1pAhcXBWv+zgtdSUzgYBEGXVSM3evs0GIN7W0oIHYZuynqN4iTv4/b1f66WBNE0YyuRuUC5Ueuy0w4BtYM9ig==&cv=2.0&url=//sale.taotao.com/act/XUh2CDEPdI6YuzZf.html',clog: '0.112334.382648.1.571_1816_8702',startDate: '2017/05/25 00:00:00',endDate: '2017/05/26 00:00:00',isTop: ''},{bigImageUrl: '//img.taotao.com/da/jfs/t5698/128/1428486785/62084/dff99749/5926c9c0Na7ed3427.png',imageUrl: '',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOV7ByguXvA9InJCz1BMpQlqtBBDbvbWBN2ywxb3ILfOlV7q87iCWFdK2ZaGnMFAb2BHWmoByPeXmwN+vPPmAue88vbCjJwzgisfHGxcwS/sj8+hbxwbRc8PrZI8MECgc/O+jxvxTbeuKf258eY8sCPbqg7lBKMNaPUH7HUwVbi2CBd0Hr7Fi8hVunvZC4tPYiigwBDdtxSPU3z8cp50sfgiF1pAhcXBWv+zgtdSUzgYBEGXVSM3evs0GIN7W0oIHYZuynqN4iTv4/b1f66WBNE0YyuRuUC5Ueuy0w4BtYM9ig==&cv=2.0&url=//sale.taotao.com/act/XUh2CDEPdI6YuzZf.html',clog: '0.112333.382651.1.571_1816_8702',startDate: '2017/05/26 00:00:00',endDate: '2017/05/28 00:00:00',isTop: ''}]}).on("beforeRender:fsbg",function(e,a){e.isBrand=!!a.imageUrl}).on("afterRender:fsbg",function(e,a){if(pageConfig.wideVersion){var t,s,n,i=$(a),l=$("#J_fs_act"),o=e.activeData.isNew;e.isBrand?(l.html(i).addClass("fs_brand").css({position:"absolute",width:1190,height:480,left:"50%",margin:"0 0 0 -595px"}),s=$(".J_fs_act_banner_lk"),t=$(".J_fsbanner",l),l.delegate(".J_fsbtn","mouseenter",function(e){l.addClass("fs_brand_active"),o&&!n&&s.attr("fclog")&&(pageConfig.sendClog(s),n=!0)}).bind("mouseleave",function(){l.removeClass("fs_brand_active")}).delegate(".J_fsbanner_close","click",function(){l.removeClass("fs_brand_active")})):l.html(i).css({position:"absolute",height:480,left:"0",top:"0"}),_.eventCenter.on("home:load",function(){pageConfig.sendClog($("#J_fs_act_lk"))})}}).init()}();
-</script>
+<%--<script type="text/javascript">--%>
+    <%--!function(){new Promos({id:"fsbg",selectFunc:"one",render:function(e){var a;return a=this.isBrand?'<style type="text/css">.fs_brand .fs_act_lk {display: block; overflow: hidden; position: absolute; left: -350px; top: 0; width: 350px; height: 480px;}.fs_act_lk_img {float: right;}.fs_act_banner {overflow: hidden; position: absolute; z-index: 30; left: 0; top: 0; width: 0; height: 480px; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }.fs_brand_active{z-index:30;}.fs_brand_active .fs_act_banner {width: 990px;}.fs_act_banner_lk {display: block; height: 480px;}.fs_act_banner_lk img {width: 990px; height: 480px;}.fs_act_banner_close {position: absolute; right: 20px; top: 20px; width: 20px; height: 20px; line-height: 20px; font-weight: bold; font-size: 14px; color: #FFF; background: rgb(45,45,45); opacity: .3; filter: alpha(opacity=30); text-align: center; cursor: pointer;}</style><a id="J_fs_act_lk" href="javascript:;" class="fs_act_lk J_fsbtn" fclog='+e.clog+'><img class="fs_act_lk_img" src="'+e.bigImageUrl+'" /></a><div class="fs_act_banner J_fsbanner"><a href="'+e.href+'" class="fs_act_banner_lk J_fs_act_banner_lk" target="_blank" clstag="h|keycount|2016|98"'+(e.fclog?' fclog="'+e.fclog+'"':"")+'><img src="'+e.imageUrl+'" /></a><span class="fs_act_banner_close iconfont J_fsbanner_close">&#xe600;</span></div>':'<a id="J_fs_act_lk" class="fs_act_lk" href="'+e.href+'" target="_blank" style="display:block; background: url('+e.bigImageUrl+') no-repeat 50% 0; height: 480px" clstag="h|keycount|2016|98" fclog='+e.clog+"></a>"},adList:[{bigImageUrl: '//img.taotao.com/da/jfs/t5734/337/1500746777/54774/14ab07ff/5926d9ffN36e7d4c6.png',imageUrl: '',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOV7ByguXvA9InJCz1BMpQlq5GOLh86b3jq7N577lDTuIjKCWxbiKoZrvifEWxtFLNpHWmoByPeXmwN+vPPmAue88vbCjJwzgisfHGxcwS/sj8+hbxwbRc8PrZI8MECgc/O+jxvxTbeuKf258eY8sCPbqg7lBKMNaPUH7HUwVbi2CBd0Hr7Fi8hVunvZC4tPYiigwBDdtxSPU3z8cp50sfgiF1pAhcXBWv+zgtdSUzgYBEGXVSM3evs0GIN7W0oIHYZuynqN4iTv4/b1f66WBNE0YyuRuUC5Ueuy0w4BtYM9ig==&cv=2.0&url=//sale.taotao.com/act/XUh2CDEPdI6YuzZf.html',clog: '0.111726.382657.1.571_1816_8702',startDate: '2017/05/29 00:00:00',endDate: '2017/05/31 00:00:00',isTop: ''},{bigImageUrl: '//img.taotao.com/da/jfs/t6052/49/223748948/65508/61c7ffc8/5926da09N12d326f3.png',imageUrl: '',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOV7ByguXvA9InJCz1BMpQlqhpZ1JSC9Gr82ofr426XkbMdirpt+g0ScnvRvtsYBOaNHWmoByPeXmwN+vPPmAue88vbCjJwzgisfHGxcwS/sj8+hbxwbRc8PrZI8MECgc/O+jxvxTbeuKf258eY8sCPbqg7lBKMNaPUH7HUwVbi2CBd0Hr7Fi8hVunvZC4tPYiigwBDdtxSPU3z8cp50sfgiF1pAhcXBWv+zgtdSUzgYBEGXVSM3evs0GIN7W0oIHYZuynqN4iTv4/b1f66WBNE0YyuRuUC5Ueuy0w4BtYM9ig==&cv=2.0&url=//sale.taotao.com/act/XUh2CDEPdI6YuzZf.html',clog: '0.112332.382659.1.571_1816_8702',startDate: '2017/05/31 00:00:00',endDate: '2017/06/01 00:00:00',isTop: ''},{bigImageUrl: '//img.taotao.com/da/jfs/t5620/156/1674486724/27060/52f2c00d/5928823eN58f4ee8d.png',imageUrl: '//img.taotao.com/da/jfs/t5809/123/1661497000/97814/e35aace/59288243N366bc1f1.jpg',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOV7ByguXvA9InJCz1BMpQlquMPoxduz5gFySkhwjFwpACDO4kbue33/3cgWSe3ejntHWmoByPeXmwN+vPPmAue88vbCjJwzgisfHGxcwS/sj6RUKt1UUprqymX5k1ucxP6fJBm9T/y9DYAQC5kLYJqfBvY0tDzeYVvO6GD7pv64H8vAa6QAm01CnX10pC6qyde7NopedPC3du7DL5C86LCm7rgAJfsDkN3cr39q/mKyOw8DnD4R7zcofvTr4ytU1fEqjV5eNKY+ZtEexFIgZ9O50KLb4qjigzwt6HHBU+SMjg==&cv=2.0&url=//sale.taotao.com/act/dqmXrfTnpbw.html',clog: '0.112335.383752.1.571_1816_8702',startDate: '2017/05/28 00:00:00',endDate: '2017/05/29 00:00:00',isTop: ''},{bigImageUrl: '//img.taotao.com/da/jfs/t6007/241/97933676/149735/cc6b1741/5925b5bdN49520309.png',imageUrl: '',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOV7ByguXvA9InJCz1BMpQlqBAK2gSboxSWlwxLY4pmoXEcnr8a0zPMCPogkyj5Agw1HWmoByPeXmwN+vPPmAue88vbCjJwzgisfHGxcwS/sj8+hbxwbRc8PrZI8MECgc/O+jxvxTbeuKf258eY8sCPbqg7lBKMNaPUH7HUwVbi2CBd0Hr7Fi8hVunvZC4tPYiigwBDdtxSPU3z8cp50sfgiF1pAhcXBWv+zgtdSUzgYBEGXVSM3evs0GIN7W0oIHYZuynqN4iTv4/b1f66WBNE0YyuRuUC5Ueuy0w4BtYM9ig==&cv=2.0&url=//sale.taotao.com/act/XUh2CDEPdI6YuzZf.html',clog: '0.112334.382648.1.571_1816_8702',startDate: '2017/05/25 00:00:00',endDate: '2017/05/26 00:00:00',isTop: ''},{bigImageUrl: '//img.taotao.com/da/jfs/t5698/128/1428486785/62084/dff99749/5926c9c0Na7ed3427.png',imageUrl: '',href: '//c-nfa.taotao.com/adclick?keyStr=6PQwtwh0f06syGHwQVvRO7pzzm8GVdWoLPSzhvezmOV7ByguXvA9InJCz1BMpQlqtBBDbvbWBN2ywxb3ILfOlV7q87iCWFdK2ZaGnMFAb2BHWmoByPeXmwN+vPPmAue88vbCjJwzgisfHGxcwS/sj8+hbxwbRc8PrZI8MECgc/O+jxvxTbeuKf258eY8sCPbqg7lBKMNaPUH7HUwVbi2CBd0Hr7Fi8hVunvZC4tPYiigwBDdtxSPU3z8cp50sfgiF1pAhcXBWv+zgtdSUzgYBEGXVSM3evs0GIN7W0oIHYZuynqN4iTv4/b1f66WBNE0YyuRuUC5Ueuy0w4BtYM9ig==&cv=2.0&url=//sale.taotao.com/act/XUh2CDEPdI6YuzZf.html',clog: '0.112333.382651.1.571_1816_8702',startDate: '2017/05/26 00:00:00',endDate: '2017/05/28 00:00:00',isTop: ''}]}).on("beforeRender:fsbg",function(e,a){e.isBrand=!!a.imageUrl}).on("afterRender:fsbg",function(e,a){if(pageConfig.wideVersion){var t,s,n,i=$(a),l=$("#J_fs_act"),o=e.activeData.isNew;e.isBrand?(l.html(i).addClass("fs_brand").css({position:"absolute",width:1190,height:480,left:"50%",margin:"0 0 0 -595px"}),s=$(".J_fs_act_banner_lk"),t=$(".J_fsbanner",l),l.delegate(".J_fsbtn","mouseenter",function(e){l.addClass("fs_brand_active"),o&&!n&&s.attr("fclog")&&(pageConfig.sendClog(s),n=!0)}).bind("mouseleave",function(){l.removeClass("fs_brand_active")}).delegate(".J_fsbanner_close","click",function(){l.removeClass("fs_brand_active")})):l.html(i).css({position:"absolute",height:480,left:"0",top:"0"}),_.eventCenter.on("home:load",function(){pageConfig.sendClog($("#J_fs_act_lk"))})}}).init()}();--%>
+<%--</script>--%>
 <!-- headerad end -->
 
 <!-- areaheaderad start -->
