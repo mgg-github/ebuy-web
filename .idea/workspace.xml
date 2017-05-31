@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f065bdf-80f7-4fca-8623-bf8cbc30a930" name="Default" comment="首页界面，及cate.min.js修正">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/taotao_web-1.0-SNAPSHOT/WEB-INF/views/test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/taotao_web-1.0-SNAPSHOT/cesu/r" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/taotao_web-1.0-SNAPSHOT/jdip/useripinfo.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cateSimple.json" afterPath="$PROJECT_DIR$/src/main/webapp/mtd/pc/index/2.0.0/home/cateSimple.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cateTest.json" afterPath="$PROJECT_DIR$/src/main/webapp/mtd/pc/index/2.0.0/home/cateTest.json" />
+    <list default="true" id="9f065bdf-80f7-4fca-8623-bf8cbc30a930" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/mtd/pc/components/sidePopMenu/1.0.0/sidePopMenu.js" afterPath="$PROJECT_DIR$/src/main/webapp/mtd/pc/components/sidePopMenu/1.0.0/sidePopMenu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/mtd/pc/index/2.0.0/home/cate.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/mtd/pc/index/2.0.0/home/cate.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/mtd/pc/index/2.0.0/home/init.min.js" afterPath="$PROJECT_DIR$/src/main/webapp/mtd/pc/index/2.0.0/home/init.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/taotao_web-1.0-SNAPSHOT/WEB-INF/views/index.jsp" afterPath="$PROJECT_DIR$/target/taotao_web-1.0-SNAPSHOT/WEB-INF/views/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/taotao_web-1.0-SNAPSHOT/mtd/pc/components/sidePopMenu/1.0.0/sidePopMenu.js" afterPath="$PROJECT_DIR$/target/taotao_web-1.0-SNAPSHOT/mtd/pc/components/sidePopMenu/1.0.0/sidePopMenu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/taotao_web-1.0-SNAPSHOT/mtd/pc/index/2.0.0/home/cate.min.js" afterPath="$PROJECT_DIR$/target/taotao_web-1.0-SNAPSHOT/mtd/pc/index/2.0.0/home/cate.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/taotao_web-1.0-SNAPSHOT/mtd/pc/index/2.0.0/home/init.min.js" afterPath="$PROJECT_DIR$/target/taotao_web-1.0-SNAPSHOT/mtd/pc/index/2.0.0/home/init.min.js" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,7 +34,7 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
+            <state relative-caret-position="45">
               <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
               <folding>
                 <marker date="1496204496619" expanded="true" signature="105044:105052" ph="&amp;##xe602;" />
@@ -2610,7 +2597,7 @@
       <workItem from="1495931705410" duration="33144000" />
       <workItem from="1496018700286" duration="32540000" />
       <workItem from="1496072192869" duration="142000" />
-      <workItem from="1496117351567" duration="14669000" />
+      <workItem from="1496117351567" duration="16912000" />
     </task>
     <task id="LOCAL-00001" summary="更新了vcs文件">
       <created>1496138839223</created>
@@ -2654,7 +2641,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496196936741</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="首页界面，及cate.min.js修正">
+      <created>1496206729425</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1496206729425</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -2690,7 +2684,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131484000" />
+    <option name="totallyTimeSpent" value="133727000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -3132,7 +3126,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="45">
           <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
           <folding>
             <marker date="1496204496619" expanded="true" signature="105044:105052" ph="&amp;##xe602;" />
