@@ -802,7 +802,7 @@ define("home/widget/head", ["//taotao.com/jdf/1.0.0/ui/dropdown/1.0.0/dropdown.j
                                 url: "//dc.3.cn/client/get",
                                 backup: "//d.taotao.com/client/get",
                                 dataType: "jsonp",
-                                scriptCharset: "gb2312",
+                                scriptCharset: "UTF-8",
                                 cache: !0,
                                 jsonpCallback: "getClientCallback"
                             }).then(function(t) {
@@ -839,7 +839,7 @@ define("home/widget/head", ["//taotao.com/jdf/1.0.0/ui/dropdown/1.0.0/dropdown.j
                                 url: "//dc.3.cn/navigation/get",
                                 backup: "//d.taotao.com/navigation/get",
                                 dataType: "jsonp",
-                                scriptCharset: "gb2312",
+                                scriptCharset: "UTF-8",
                                 cache: !0,
                                 jsonpCallback: "getNavigationCallback"
                             }).then(function(t) {
@@ -893,7 +893,7 @@ define("home/widget/cate", function(require) {
                 e.isPopMenuBinded = !1,
                 e.dataUrl = n.CATE_A,
                 e.dataBackupUrl = n.CATE_A_BACKUP_PC,
-                e.scriptCharset = "gb2312";
+                e.scriptCharset = "UTF-8";
             var l = pageConfig.user.jda
                 , s = !0;
             if (i && "string" == typeof l) {

@@ -1347,13 +1347,13 @@ var category = {OBJ: $("#_TT_ALLSORT"),
     }};
 !function() {
     pageConfig.FN_ImgError(document), $("img[data-lazyload]").Jlazyload({type: "image",placeholderClass: "err-product"}), category.FN_Init(), document.getElementById("shortcut") ? $("#shortcut .menu").Jdropdown({delay: 50}) : ($("#biz-service").Jdropdown({delay: 50}, function() {
-        $.ajax({url: "http://www.taotao.com/hotwords.aspx?position=new-index-002",dataType: "script",scriptCharset: "gb2312",cache: !0})
+        $.ajax({url: "http://www.taotao.com/hotwords.aspx?position=new-index-002",dataType: "script",scriptCharset: "UTF-8",cache: !0})
     }), $("#site-nav").Jdropdown({delay: 50}, function() {
-        $.ajax({url: "http://www.taotao.com/hotwords.aspx?position=new-index-003",dataType: "script",scriptCharset: "gb2312",cache: !0})
+        $.ajax({url: "http://www.taotao.com/hotwords.aspx?position=new-index-003",dataType: "script",scriptCharset: "UTF-8",cache: !0})
     })), document.getElementById("navitems") ? $("#navitems li").Jdropdown() : $("#navitems-2013 li").Jdropdown()
     		
 //    		$.ajax({url: ("https:" == document.location.protocol ? "https://" : "http://") + "passport." + pageConfig.FN_getDomain() + "/new/helloService.ashx?m=ls",
-//    			dataType: "jsonp",scriptCharset: "gb2312",success: function(a) {
+//    			dataType: "jsonp",scriptCharset: "UTF-8",success: function(a) {
 //            a && a.info && $("#loginbar").html(a.info), a && a.sso && $.each(a.sso, function() {
 //                $.getJSON(this);
 //                

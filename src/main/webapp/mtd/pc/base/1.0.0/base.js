@@ -154,22 +154,7 @@
             })), rx_one.test(text.replace(rx_two, "@").replace(rx_three, "]").replace(rx_four, "")))return j = eval("(" + text + ")"), "function" == typeof reviver ? walk({"": j}, "") : j;
         throw new SyntaxError("JSON.parse")
     })
-}(), define("o2console", function () {
-    "use strict";
-    return {
-        consoleConfig: {
-            staff: "%c本页面由%c 凹凸实验室（TTC-多终端研发部） %c负责开发，你可以通过 https://aotu.io 了解我们。\n\n如果你对我们在做的事情也有兴趣，欢迎加入 %caotu@taotao.com%c（注明来自console）\n\n",
-            freshTec: "%c%c",
-            funExp: "%c%c"
-        }, consoleConfigFunc: function () {
-            if (window.console && console.log && navigator.userAgent.toLowerCase().match(/chrome\/([\d.]+)/)) {
-                var e = "undefined" != typeof o2ConsoleConfig ? o2ConsoleConfig : this.consoleConfig,
-                    t = "font-weight: bold;color: #6190e8;", n = "font-size: 12px;color: #6190e8;";
-                console.log(e.staff + e.freshTec + e.funExp, "color: #6190e8;", t, n, t, n, t, n, t, n)
-            }
-        }
-    }
-}), define("store", function () {
+}(),define("store", function () {
     "use strict";
     function e() {
         try {

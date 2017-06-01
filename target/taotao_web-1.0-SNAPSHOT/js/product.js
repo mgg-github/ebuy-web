@@ -797,7 +797,7 @@ Grecommend.prototype = {init: function() {
 var Recommend = {init: function(t) {
         this.type = t, this.renderHTML(), this.renderRecoFittingsHTML(), this.getSuits()
     },getSuits: function() {
-//        G.isPop ? $.ajax({url: "http://taotao.com/product/js/2012/suits.js",dataType: "script",scriptCharset: "gb2312",cache: !0,success: function() {
+//        G.isPop ? $.ajax({url: "http://taotao.com/product/js/2012/suits.js",dataType: "script",scriptCharset: "UTF-8",cache: !0,success: function() {
 //                "undefined" != typeof Suits && Suits.init(G.sku)
 //            }}) : $.ajax({url: "http://pi.3.cn/suitinfo/get",data: {id: G.sku,origin: 1},dataType: "script",cache: !0,scriptCharset: "utf-8"})
     },renderRecoFittingsHTML: function() {
@@ -1538,7 +1538,7 @@ var Refresh = {init: function() {
         var d = new pageConfig.FN_InitSidebar, p = "98523";
         832 === G.cat[2] && (p = "737542"), d.addItem('<a class="research" target="_blank" href="http://surveys.taotao.com/index.php?r=survey/index/sid/' + p + '/lang/zh-Hans"><b></b>\u8c03\u67e5\u95ee\u5377</a>'), d.setTop(), d.scroll()
     }
-    if (setImButton(G.sku), 1319 === G.cat[0] && $.ajax({url: "http://taotao.com/product/js/2012/item.baby.js?ver=20140123",cache: !0,dataType: "script",scriptCharset: "gb2312"}), jdSref && searchEngineSource) {
+    if (setImButton(G.sku), 1319 === G.cat[0] && $.ajax({url: "http://taotao.com/product/js/2012/item.baby.js?ver=20140123",cache: !0,dataType: "script",scriptCharset: "UTF-8"}), jdSref && searchEngineSource) {
         var m = "&encode=utf-8";
         if ("baidu" == searchEngineSource.d) {
             var u = document.referrer;
@@ -1605,7 +1605,7 @@ var geminiCustomizedDot = geminiCustomizedDot || [], MBuy = {init: function() {
     },setQrcode: function() {
 //        var t = this, e = '<div id="m-buy" clstag="shangpin|keycount|product|btn-erweima">    <div class="mt">\u5ba2\u6237\u7aef\u9996\u6b21\u4e0b\u5355</div>    <div id="m-countdown">        <strong class="hl_red">\u90015\u5143\u4eac\u5238</strong>    </div>    <div id="m-qrcode" class="hide">        <span class="close" onclick="$(\'#m-buy\').removeClass(\'hover\')"></span>        <span class="arr"></span>        <div class="m-qrcode-wrap">            <strong>\u5ba2\u6237\u7aef\u9996\u5355\u6ee159\u90015\u5143\u4eac\u5238\u4f4e\u4ef7\u79d2\u6740\u5546\u54c1\u62a2\u4e0d\u505c</strong>            <div id="m-qrcode-box">                <img src="http://taotao.com/lib/img/e/blank.gif" width="155" height="155" />            </div>        </div>    </div></div>';
 //        return $("#m-buy").length > 0 ? !1 : (this.chooseBtn.append(e), this.mBuy = $("#m-buy"), this.mt = this.mBuy.find(".mt"), this.mBuy.Jdropdown({delay: 200,event: "click"}, function() {
-//            "true" !== t.mBuy.attr("loaded") && ($.ajax({url: "http://taotao.com/product/js/2012/qrcode.js?ver=20140527",dataType: "script",scriptCharset: "gb2312",cache: !0}), t.mBuy.attr("loaded", "true"))
+//            "true" !== t.mBuy.attr("loaded") && ($.ajax({url: "http://taotao.com/product/js/2012/qrcode.js?ver=20140527",dataType: "script",scriptCharset: "UTF-8",cache: !0}), t.mBuy.attr("loaded", "true"))
 //        }), void 0)
     },setProm: function(t) {
         var e = this.mBuy.find("#m-countdown");

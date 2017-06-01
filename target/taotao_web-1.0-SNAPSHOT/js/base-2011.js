@@ -442,7 +442,7 @@ if (function(a) {
         })
     }
 }(jQuery), function($) {
-    $.extend({_jsonp: {scripts: {},counter: 1,charset: "gb2312",head: document.getElementsByTagName("head")[0],name: function(callback) {
+    $.extend({_jsonp: {scripts: {},counter: 1,charset: "UTF-8",head: document.getElementsByTagName("head")[0],name: function(callback) {
                 var name = "_jsonp_" + (new Date).getTime() + "_" + this.counter;
                 this.counter++;
                 var cb = function(json) {
