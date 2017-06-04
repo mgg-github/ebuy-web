@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="httpClientConnectionManager" class="org.apache.http.impl.conn.PoolingHttpClientConnectionManager">
+        <property name="maxTotal" value="${http.maxTotal}"></property>
+        <property name="defaultMaxPerRoute" value="${http.maxPerRoute}"></property>
+        <property name="validateAfterInactivity" value="${http.validateAfterInactivity}"></property>
+    </bean>
+    <bean id="httpClientBuilder" class="org.apache.http.impl.client.HttpClientBuilder">
+        <property name="connectionManager" ref="httpClientConnectionManager"></property>
+    </bean>
+    <bean id="httpClient" class="org.apache.http.impl.client.CloseableHttpClient" factory-bean="httpClientBuilder" factory-method="build" scope="prototype"></bean>
+
+    <bean id="requestConfigBuilder" class="org.apache.http.client.config.RequestConfig.Builder">
+        <property name="connectTimeout" value="${http.connectTimeout}"></property>
+        <property name="connectionRequestTimeout" value="${http.connectionRequestTimeout}"></property>
+        <property name="socketTimeout" value="${http.sockTimeout}"></property>
+    </bean>
+    <bean id="requestConfig" class="org.apache.http.client.config.RequestConfig" factory-bean="requestConfigBuilder" factory-method="build"></bean>
+    <bean id="expiredConnectionCleaner" class="com.taotao.web.httpclient.ExpiredConnectionCleaner"></bean>
+</beans>

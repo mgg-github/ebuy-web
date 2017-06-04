@@ -644,63 +644,63 @@
 </script>
 <div class="J_f J_lazyload J_sk mod_lazyload need_ani sk" id="seckill" data-tpl="seckill_tpl" data-custom="true">
 </div>
-<div class="J_f J_lazyload mod_lazyload enjoy" id="enjoy" data-tpl="enjoy_tpl" data-source="nbi:enjoy" data-backup="enjoy" data-forcerender="true">
-</div>
-<div class="J_f J_lazyload J_fbt mod_lazyload need_ani fbt" id="fbt" data-tpl="fbt_tpl" data-custom="true">
-</div>
-<div class="J_f J_lazyload mod_lazyload need_ani coupon" id="coupon_lazy" data-tpl="floor_coupon_tpl" data-backup="coupons" data-source="cms:coupons">
-</div>
-<div class="J_f J_lazyload mod_lazyload need_ani rec" id="rec_1" data-tpl="rec_tpl" data-backup="banner_1" data-source="cms:banner_1">
+<%--<div class="J_f J_lazyload mod_lazyload enjoy" id="enjoy" data-tpl="enjoy_tpl" data-source="nbi:enjoy" data-backup="enjoy" data-forcerender="true">--%>
+<%--</div>--%>
+<%--<div class="J_f J_lazyload J_fbt mod_lazyload need_ani fbt" id="fbt" data-tpl="fbt_tpl" data-custom="true">--%>
+<%--</div>--%>
+<%--<div class="J_f J_lazyload mod_lazyload need_ani coupon" id="coupon_lazy" data-tpl="floor_coupon_tpl" data-backup="coupons" data-source="cms:coupons">--%>
+<%--</div>--%>
+<%--<div class="J_f J_lazyload mod_lazyload need_ani rec" id="rec_1" data-tpl="rec_tpl" data-backup="banner_1" data-source="cms:banner_1">--%>
 
-</div>
-<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani entry entry_c3 entry_1" id="entry_1" data-tpl="entry_tpl" data-backup="entry" data-source="bi:entry">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani entry entry_c3 entry_1" id="entry_1" data-tpl="entry_tpl" data-backup="entry" data-source="bi:entry">--%>
 
-</div>
-<div class="J_f J_lazyload mod_lazyload rec" id="rec_2" data-tpl="rec_tpl" data-backup="banner_2" data-source="cms:banner_2">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload mod_lazyload rec" id="rec_2" data-tpl="rec_tpl" data-backup="banner_2" data-source="cms:banner_2">--%>
 
-</div>
-<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn chn_t" id="portal_1" data-tpl="portal_tpl" data-backup="basic_1" data-source="bi:basic_1">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn chn_t" id="portal_1" data-tpl="portal_tpl" data-backup="basic_1" data-source="bi:basic_1">--%>
 
-</div>
-<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_2" data-backup="basic_2" data-source="bi:basic_2" data-tpl="portal_tpl">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_2" data-backup="basic_2" data-source="bi:basic_2" data-tpl="portal_tpl">--%>
 
-</div>
-<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_3" data-backup="basic_3" data-source="bi:basic_3" data-tpl="portal_tpl">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_3" data-backup="basic_3" data-source="bi:basic_3" data-tpl="portal_tpl">--%>
 
-</div>
-<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_4" data-backup="basic_4" data-source="bi:basic_4" data-tpl="portal_tpl">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_4" data-backup="basic_4" data-source="bi:basic_4" data-tpl="portal_tpl">--%>
 
-</div>
-<div class="J_f J_lazyload mod_lazyload rec" id="rec_3" data-backup="banner_3" data-source="cms:banner_3" data-tpl="rec_tpl">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload mod_lazyload rec" id="rec_3" data-backup="banner_3" data-source="cms:banner_3" data-tpl="rec_tpl">--%>
 
-</div>
-<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_5" data-backup="basic_5" data-source="bi:basic_5" data-tpl="portal_tpl">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_5" data-backup="basic_5" data-source="bi:basic_5" data-tpl="portal_tpl">--%>
 
-</div>
-<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_6" data-backup="basic_6" data-source="bi:basic_6" data-tpl="portal_tpl">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_6" data-backup="basic_6" data-source="bi:basic_6" data-tpl="portal_tpl">--%>
 
-</div>
-<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_7" data-backup="basic_7" data-source="bi:basic_7" data-tpl="portal_tpl">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_7" data-backup="basic_7" data-source="bi:basic_7" data-tpl="portal_tpl">--%>
 
-</div>
-<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_8" data-backup="basic_8" data-source="bi:basic_8" data-tpl="portal_tpl">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload J_f_lift mod_lazyload need_ani chn" id="portal_8" data-backup="basic_8" data-source="bi:basic_8" data-tpl="portal_tpl">--%>
 
-</div>
-<div class="J_f J_lazyload mod_lazyload need_ani entry entry_c7 entry_2" id="entry_2" data-backup="special_2" data-source="bi:special_2" data-tpl="entry_tpl">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload mod_lazyload need_ani entry entry_c7 entry_2" id="entry_2" data-backup="special_2" data-source="bi:special_2" data-tpl="entry_tpl">--%>
 
-</div>
-<div class="J_f J_lazyload mod_lazyload rec" id="rec_4" data-backup="banner_4" data-source="cms:banner_4" data-tpl="rec_tpl">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload mod_lazyload rec" id="rec_4" data-backup="banner_4" data-source="cms:banner_4" data-tpl="rec_tpl">--%>
 
-</div>
-<div class="J_f J_lazyload J_f_lift mod_lazyload more J_more" id="more" data-custom="true" data-tpl="more_tpl">
+<%--</div>--%>
+<%--<div class="J_f J_lazyload J_f_lift mod_lazyload more J_more" id="more" data-custom="true" data-tpl="more_tpl">--%>
 
-</div>
+<%--</div>--%>
 <div class="J_f J_lazyload mod_lazyload mod_footer" id="footer" data-tpl="mod_footer_tpl">
 
 </div>
-<div class="J_f J_lazyload J_lift mod_lazyload lift" id="lift" data-tpl="elevator_tpl" data-forcerender="true">
+<%--<div class="J_f J_lazyload J_lift mod_lazyload lift" id="lift" data-tpl="elevator_tpl" data-forcerender="true">--%>
 
-</div>
+<%--</div>--%>
 <script type="text/javascript">
     // 轮播第一帧逻辑直出
     (function(d){var f=d.pageConfig;f.clstagPrefix="h|keycount|2016|";f.clog={};var b=function(h){if(h&&h.length){var g=h.length;var i=Math.floor(Math.random()*g);return h[i]}};var a=function(j){var m=document,l,k,h,g=[];if(m.querySelectorAll){return m.querySelectorAll("."+j)}if(m.evaluate){k=".//*[contains(concat(' ', @class, ' '), ' "+j+" ')]";l=m.evaluate(k,m,null,0,null);while((h=l.iterateNext())){g.push(h)}}else{l=m.getElementsByTagName("*");k=new RegExp("(^|\\s)"+j+"(\\s|$)");for(h=0;h<l.length;h++){if(k.test(l[h].className)){g.push(l[h])}}}return g};function c(){var l=f.focusData;var h="";var k="";var j=a("J_slider")[0];var m=a("J_slider_main")[0];var i=f.compatible&&f.wideVersion;if(l&&l.length){var n=l.length;if(n){l=b(l);f.clog.logDomain=l.logDomain;f.clog.logV=l.logV;var o=i?l.src:l.srcB;h+='<li class="J_slider_item slider_item">                        <a href="'+l.href+'" class="slider_item_lk mod_loading  J_slider_item_lk" fclog="'+l.clog+'" clstag="'+f.clstagPrefix+"08a01"+'" target="_blank">                        <img data-lazy-src="'+o+'" alt="'+l.alt+'" src="//taotao.com/mtd/pc/common/img/blank.png" class="J_slider_item_img slider_item_img" />                        </a>                    </li>'}}k='<ul class="slider_list J_slider_list">'+h+'</ul>              <div class="J_slider_indicator slider_indicator"></div><a href="javascript:void(0)" clstag="" class="J_slider_control_prev slider_control_item slider_control_prev"><i class="iconfont">&#xe602;</i></a><a href="javascript:void(0)" clstag="" class="J_slider_control_next slider_control_item slider_control_next"><i class="iconfont">&#xe601;</i></a>';m.innerHTML=k;m.className=m.className.replace(new RegExp("(\\s|^)mod_lazyload(\\s|$)"),"");var g=a("J_slider_item_img")[0];var p=g.parentNode;e(g,function(){g.removeAttribute("data-lazy-src");p.className=p.className.replace(new RegExp("(\\s|^)mod_loading(\\s|$)"),"")},function(){var q=p.parentNode;var r=q.parentNode;r.removeChild(q)})}function e(j,h,i){if(!j){return}var g=j.getAttribute("data-lazy-src");if(g&&g.length){var k=false;j.setAttribute("src",g);j.onload=function(){if(!!k){return}k=true;h&&h()};j.onerror=function(){k=true;i&&i()};if(!k&&j.complete){k=true;h&&h()}}}c()})(window,void 0);
